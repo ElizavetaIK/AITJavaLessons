@@ -10,6 +10,7 @@ public class Task03 {
         for (int i = 1; i <= number; i++) {
             summ = summ + i;
         }
+
         System.out.println(summ);
     }
 }
